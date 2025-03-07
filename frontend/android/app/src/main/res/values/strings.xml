@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="GOOGLE_MAPS_API_KEY">AIzaSyBtcivA2mcgtl0Dx1h54XHocp0CsvF2j6o</string>
+    <!-- 移除这里的 API Key -->
 </resources> 
